@@ -1,0 +1,1 @@
+@"c:\users\lounge\envs\my-bus\scripts\python.exe" "c:\users\lounge\envs\my-bus\Scripts\markdown_py" %*
